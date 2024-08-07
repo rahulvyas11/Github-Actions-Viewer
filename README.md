@@ -1,5 +1,3 @@
-# github_client
-
 # Github Actions Viewer
  ## Flutter Desktop GitHub Integration App
 Introduction
