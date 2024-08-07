@@ -1,7 +1,7 @@
 # Github Actions Viewer
  ## Flutter Desktop GitHub Integration App
-Introduction
-Welcome to the Flutter Desktop GitHub Integration App! This project leverages Flutter, Google's UI toolkit, to build a beautiful, natively compiled application for desktop environments. The app connects to GitHub APIs to retrieve repositories, assigned issues, and pull requests, providing a seamless integration with GitHub. Through this application, you'll experience the power of Flutter in creating cross-platform desktop applications with native API interactions.
+
+Welcome to my Flutter Desktop GitHub Integration App! This project leverages Flutter, Google's UI toolkit, to build a beautiful, natively compiled application for desktop environments. The app connects to GitHub APIs to retrieve repositories, assigned issues, and pull requests, providing a seamless integration with GitHub. Through this application, you'll experience the power of Flutter in creating cross-platform desktop applications with native API interactions.
 
 ## What I Learned
 - Creating a Flutter Desktop Application: Understand how to build and run a Flutter app on desktop platforms.
