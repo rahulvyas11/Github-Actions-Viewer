@@ -10,6 +10,11 @@ Welcome to my Flutter Desktop GitHub Integration App! This project leverages Flu
 - Creating Flutter Plugins: Develop plugins to integrate with native APIs on Windows, macOS, and/or Linux.
 - Hot Reloading Flutter UI: Utilize Flutter's hot reload feature to quickly iterate on your desktop application's UI.
 
+<img width="912" alt="Screenshot 2024-08-07 at 7 01 43 PM" src="https://github.com/user-attachments/assets/2a043202-faf7-4670-ae44-eef11c646278">
+<img width="912" alt="Screenshot 2024-08-07 at 7 02 20 PM" src="https://github.com/user-attachments/assets/1668652e-1472-44d4-ac42-6dea6a1555ac">
+<img width="912" alt="Screenshot 2024-08-07 at 7 02 27 PM" src="https://github.com/user-attachments/assets/35b59828-447f-45c1-954a-1cade0111cd2">
+
+
 ## Getting Started
 
 ### Prerequisites
